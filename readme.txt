@@ -5,6 +5,7 @@ Git tracks changes of files.
 hello
 Creating a new branch is quick and simple.
 tp.
+3ad38b6... fix bug
 xi huan ni.
 dream.
 where you go?
